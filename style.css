@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.border-dotted_blue {
+    border: 0cap dotted blue;
+    
+}
+
+.business_card {
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    border-bottom: 10px #d8cefe solid;
+    border-radius: 5%;
+    margin: 0px auto;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.av_info {
+    text-align: center;
+}
